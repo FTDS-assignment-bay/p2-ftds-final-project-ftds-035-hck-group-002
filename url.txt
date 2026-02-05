@@ -1,0 +1,8 @@
+Link Presentasi:
+https://docs.google.com/presentation/d/1pJClyqlCB31X2be-6YuuUyebpgdRqEJ_2ASN28DGFwM/edit?usp=sharing
+
+Link HuggingFace:
+https://huggingface.co/spaces/ncahyow/Yolo_Detection
+
+Link Dataset:
+https://universe.roboflow.com/spacex-bmpib/emotion-gyup3/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
