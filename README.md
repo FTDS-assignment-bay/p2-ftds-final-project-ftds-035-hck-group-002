@@ -42,7 +42,7 @@ Berdasarkan permasalahan dalam pengenalan emosi wajah, tujuan dari proyek DOOHO 
 # Dataset
 Dataset yang digunakan dalam proyek ini merupakan dataset **Emotion Detection** berformat YOLO yang diperoleh dari **Roboflow Universe**. Dataset ini terdiri dari 7 kelas emosi wajah yang telah dianotasi menggunakan bounding box dan dibagi ke dalam data training, validation, dan testing.
 
-Dataset ini digunakan sebagai dasar untuk proses Exploratory Data Analysis, training model, evaluasi performa, dan inference.
+Dataset ini digunakan sebagai dasar untuk proses Exploratory Data Analysis, training model, evaluasi performa, dan inference.  
 [Dataset](https://universe.roboflow.com/spacex-bmpib/emotion-gyup3/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true) - Sumber Dataset
 
 # Stack
